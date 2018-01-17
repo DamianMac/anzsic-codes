@@ -1,0 +1,78 @@
+[
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "division_code": "A"
+    },
+    {
+        "division_title": "Mining",
+        "division_code": "B"
+    },
+    {
+        "division_title": "Manufacturing",
+        "division_code": "C"
+    },
+    {
+        "division_title": "Electricity, Gas, Water and Waste Services",
+        "division_code": "D"
+    },
+    {
+        "division_title": "Construction",
+        "division_code": "E"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "division_code": "F"
+    },
+    {
+        "division_title": "Retail Trade",
+        "division_code": "G"
+    },
+    {
+        "division_title": "Accommodation and Food Services",
+        "division_code": "H"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "division_code": "I"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "division_code": "J"
+    },
+    {
+        "division_title": "Financial and Insurance Services",
+        "division_code": "K"
+    },
+    {
+        "division_title": "Rental, Hiring and Real Estate Services",
+        "division_code": "L"
+    },
+    {
+        "division_title": "Professional, Scientific and Technical Services",
+        "division_code": "M"
+    },
+    {
+        "division_title": "Administrative and Support Services",
+        "division_code": "N"
+    },
+    {
+        "division_title": "Public Administration and Safety",
+        "division_code": "O"
+    },
+    {
+        "division_title": "Education and Training",
+        "division_code": "P"
+    },
+    {
+        "division_title": "Health Care and Social Assistance",
+        "division_code": "Q"
+    },
+    {
+        "division_title": "Arts and Recreation Services",
+        "division_code": "R"
+    },
+    {
+        "division_title": "Other Services",
+        "division_code": "S"
+    }
+]

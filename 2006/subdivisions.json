@@ -1,0 +1,518 @@
+[
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "subdivision_code": "01",
+        "division_code": "A",
+        "subdivision_title": "Agriculture"
+    },
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "subdivision_code": "02",
+        "division_code": "A",
+        "subdivision_title": "Aquaculture"
+    },
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "subdivision_code": "03",
+        "division_code": "A",
+        "subdivision_title": "Forestry and Logging"
+    },
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "subdivision_code": "04",
+        "division_code": "A",
+        "subdivision_title": "Fishing, Hunting and Trapping"
+    },
+    {
+        "division_title": "Agriculture, Forestry and Fishing",
+        "subdivision_code": "05",
+        "division_code": "A",
+        "subdivision_title": "Agriculture, Forestry and Fishing Support Services"
+    },
+    {
+        "division_title": "Mining",
+        "subdivision_code": "06",
+        "division_code": "B",
+        "subdivision_title": "Coal Mining"
+    },
+    {
+        "division_title": "Mining",
+        "subdivision_code": "07",
+        "division_code": "B",
+        "subdivision_title": "Oil and Gas Extraction"
+    },
+    {
+        "division_title": "Mining",
+        "subdivision_code": "08",
+        "division_code": "B",
+        "subdivision_title": "Metal Ore Mining"
+    },
+    {
+        "division_title": "Mining",
+        "subdivision_code": "09",
+        "division_code": "B",
+        "subdivision_title": "Non-Metallic Mineral Mining and Quarrying"
+    },
+    {
+        "division_title": "Mining",
+        "subdivision_code": "10",
+        "division_code": "B",
+        "subdivision_title": "Exploration and Other Mining Support Services"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "11",
+        "division_code": "C",
+        "subdivision_title": "Food Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "12",
+        "division_code": "C",
+        "subdivision_title": "Beverage and Tobacco Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "13",
+        "division_code": "C",
+        "subdivision_title": "Textile, Leather, Clothing and Footwear Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "14",
+        "division_code": "C",
+        "subdivision_title": "Wood Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "15",
+        "division_code": "C",
+        "subdivision_title": "Pulp, Paper and Converted Paper Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "16",
+        "division_code": "C",
+        "subdivision_title": "Printing (including the Reproduction of Recorded Media)"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "17",
+        "division_code": "C",
+        "subdivision_title": "Petroleum and Coal Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "18",
+        "division_code": "C",
+        "subdivision_title": "Basic Chemical and Chemical Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "19",
+        "division_code": "C",
+        "subdivision_title": "Polymer Product and Rubber Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "20",
+        "division_code": "C",
+        "subdivision_title": "Non-Metallic Mineral Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "21",
+        "division_code": "C",
+        "subdivision_title": "Primary Metal and Metal Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "22",
+        "division_code": "C",
+        "subdivision_title": "Fabricated Metal Product Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "23",
+        "division_code": "C",
+        "subdivision_title": "Transport Equipment Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "24",
+        "division_code": "C",
+        "subdivision_title": "Machinery and Equipment Manufacturing"
+    },
+    {
+        "division_title": "Manufacturing",
+        "subdivision_code": "25",
+        "division_code": "C",
+        "subdivision_title": "Furniture and Other Manufacturing"
+    },
+    {
+        "division_title": "Electricity, Gas, Water and Waste Services",
+        "subdivision_code": "26",
+        "division_code": "D",
+        "subdivision_title": "Electricity Supply"
+    },
+    {
+        "division_title": "Electricity, Gas, Water and Waste Services",
+        "subdivision_code": "27",
+        "division_code": "D",
+        "subdivision_title": "Gas Supply"
+    },
+    {
+        "division_title": "Electricity, Gas, Water and Waste Services",
+        "subdivision_code": "28",
+        "division_code": "D",
+        "subdivision_title": "Water Supply, Sewerage and Drainage Services"
+    },
+    {
+        "division_title": "Electricity, Gas, Water and Waste Services",
+        "subdivision_code": "29",
+        "division_code": "D",
+        "subdivision_title": "Waste Collection, Treatment and Disposal Services"
+    },
+    {
+        "division_title": "Construction",
+        "subdivision_code": "30",
+        "division_code": "E",
+        "subdivision_title": "Building Construction"
+    },
+    {
+        "division_title": "Construction",
+        "subdivision_code": "31",
+        "division_code": "E",
+        "subdivision_title": "Heavy and Civil Engineering Construction"
+    },
+    {
+        "division_title": "Construction",
+        "subdivision_code": "32",
+        "division_code": "E",
+        "subdivision_title": "Construction Services"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "33",
+        "division_code": "F",
+        "subdivision_title": "Basic Material Wholesaling"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "34",
+        "division_code": "F",
+        "subdivision_title": "Machinery and Equipment Wholesaling"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "35",
+        "division_code": "F",
+        "subdivision_title": "Motor Vehicle and Motor Vehicle Parts Wholesaling"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "36",
+        "division_code": "F",
+        "subdivision_title": "Grocery, Liquor and Tobacco Product Wholesaling"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "37",
+        "division_code": "F",
+        "subdivision_title": "Other Goods Wholesaling"
+    },
+    {
+        "division_title": "Wholesale Trade",
+        "subdivision_code": "38",
+        "division_code": "F",
+        "subdivision_title": "Commission-Based Wholesaling"
+    },
+    {
+        "division_title": "Retail Trade",
+        "subdivision_code": "39",
+        "division_code": "G",
+        "subdivision_title": "Motor Vehicle and Motor Vehicle Parts Retailing"
+    },
+    {
+        "division_title": "Retail Trade",
+        "subdivision_code": "40",
+        "division_code": "G",
+        "subdivision_title": "Fuel Retailing"
+    },
+    {
+        "division_title": "Retail Trade",
+        "subdivision_code": "41",
+        "division_code": "G",
+        "subdivision_title": "Food Retailing"
+    },
+    {
+        "division_title": "Retail Trade",
+        "subdivision_code": "42",
+        "division_code": "G",
+        "subdivision_title": "Other Store-Based Retailing"
+    },
+    {
+        "division_title": "Retail Trade",
+        "subdivision_code": "43",
+        "division_code": "G",
+        "subdivision_title": "Non-Store Retailing and Retail Commission-Based Buying and/or Selling"
+    },
+    {
+        "division_title": "Accommodation and Food Services",
+        "subdivision_code": "44",
+        "division_code": "H",
+        "subdivision_title": "Accommodation"
+    },
+    {
+        "division_title": "Accommodation and Food Services",
+        "subdivision_code": "45",
+        "division_code": "H",
+        "subdivision_title": "Food and Beverage Services"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "46",
+        "division_code": "I",
+        "subdivision_title": "Road Transport"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "47",
+        "division_code": "I",
+        "subdivision_title": "Rail Transport"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "48",
+        "division_code": "I",
+        "subdivision_title": "Water Transport"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "49",
+        "division_code": "I",
+        "subdivision_title": "Air and Space Transport"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "50",
+        "division_code": "I",
+        "subdivision_title": "Other Transport"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "51",
+        "division_code": "I",
+        "subdivision_title": "Postal and Courier Pick-up and Delivery Services"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "52",
+        "division_code": "I",
+        "subdivision_title": "Transport Support Services"
+    },
+    {
+        "division_title": "Transport, Postal and Warehousing",
+        "subdivision_code": "53",
+        "division_code": "I",
+        "subdivision_title": "Warehousing and Storage Services"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "54",
+        "division_code": "J",
+        "subdivision_title": "Publishing (except Internet and Music Publishing)"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "55",
+        "division_code": "J",
+        "subdivision_title": "Motion Picture and Sound Recording Activities"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "56",
+        "division_code": "J",
+        "subdivision_title": "Broadcasting (except Internet)"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "57",
+        "division_code": "J",
+        "subdivision_title": "Internet Publishing and Broadcasting"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "58",
+        "division_code": "J",
+        "subdivision_title": "Telecommunications Services"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "59",
+        "division_code": "J",
+        "subdivision_title": "Internet Service Providers, Web Search Portals and Data Processing Services"
+    },
+    {
+        "division_title": "Information Media and Telecommunications",
+        "subdivision_code": "60",
+        "division_code": "J",
+        "subdivision_title": "Library and Other Information Services"
+    },
+    {
+        "division_title": "Financial and Insurance Services",
+        "subdivision_code": "62",
+        "division_code": "K",
+        "subdivision_title": "Finance"
+    },
+    {
+        "division_title": "Financial and Insurance Services",
+        "subdivision_code": "63",
+        "division_code": "K",
+        "subdivision_title": "Insurance and Superannuation Funds"
+    },
+    {
+        "division_title": "Financial and Insurance Services",
+        "subdivision_code": "64",
+        "division_code": "K",
+        "subdivision_title": "Auxiliary Finance and Insurance Services"
+    },
+    {
+        "division_title": "Rental, Hiring and Real Estate Services",
+        "subdivision_code": "66",
+        "division_code": "L",
+        "subdivision_title": "Rental and Hiring Services (except Real Estate)"
+    },
+    {
+        "division_title": "Rental, Hiring and Real Estate Services",
+        "subdivision_code": "67",
+        "division_code": "L",
+        "subdivision_title": "Property Operators and Real Estate Services"
+    },
+    {
+        "division_title": "Professional, Scientific and Technical Services",
+        "subdivision_code": "69",
+        "division_code": "M",
+        "subdivision_title": "Professional, Scientific and Technical Services (Except Computer System Design and Related"
+    },
+    {
+        "division_title": "Professional, Scientific and Technical Services",
+        "subdivision_code": "70",
+        "division_code": "M",
+        "subdivision_title": "Computer System Design and Related Services"
+    },
+    {
+        "division_title": "Administrative and Support Services",
+        "subdivision_code": "72",
+        "division_code": "N",
+        "subdivision_title": "Administrative Services"
+    },
+    {
+        "division_title": "Administrative and Support Services",
+        "subdivision_code": "73",
+        "division_code": "N",
+        "subdivision_title": "Building Cleaning, Pest Control and Other Support Services"
+    },
+    {
+        "division_title": "Public Administration and Safety",
+        "subdivision_code": "75",
+        "division_code": "O",
+        "subdivision_title": "Public Administration"
+    },
+    {
+        "division_title": "Public Administration and Safety",
+        "subdivision_code": "76",
+        "division_code": "O",
+        "subdivision_title": "Defence"
+    },
+    {
+        "division_title": "Public Administration and Safety",
+        "subdivision_code": "77",
+        "division_code": "O",
+        "subdivision_title": "Public Order, Safety and Regulatory Services"
+    },
+    {
+        "division_title": "Education and Training",
+        "subdivision_code": "80",
+        "division_code": "P",
+        "subdivision_title": "Preschool and School Education"
+    },
+    {
+        "division_title": "Education and Training",
+        "subdivision_code": "81",
+        "division_code": "P",
+        "subdivision_title": "Tertiary Education"
+    },
+    {
+        "division_title": "Education and Training",
+        "subdivision_code": "82",
+        "division_code": "P",
+        "subdivision_title": "Adult, Community and Other Education"
+    },
+    {
+        "division_title": "Health Care and Social Assistance",
+        "subdivision_code": "84",
+        "division_code": "Q",
+        "subdivision_title": "Hospitals"
+    },
+    {
+        "division_title": "Health Care and Social Assistance",
+        "subdivision_code": "85",
+        "division_code": "Q",
+        "subdivision_title": "Medical and Other Health Care Services"
+    },
+    {
+        "division_title": "Health Care and Social Assistance",
+        "subdivision_code": "86",
+        "division_code": "Q",
+        "subdivision_title": "Residential Care Services"
+    },
+    {
+        "division_title": "Health Care and Social Assistance",
+        "subdivision_code": "87",
+        "division_code": "Q",
+        "subdivision_title": "Social Assistance Services"
+    },
+    {
+        "division_title": "Arts and Recreation Services",
+        "subdivision_code": "89",
+        "division_code": "R",
+        "subdivision_title": "Heritage Activities"
+    },
+    {
+        "division_title": "Arts and Recreation Services",
+        "subdivision_code": "90",
+        "division_code": "R",
+        "subdivision_title": "Creative and Performing Arts Activities"
+    },
+    {
+        "division_title": "Arts and Recreation Services",
+        "subdivision_code": "91",
+        "division_code": "R",
+        "subdivision_title": "Sports and Recreation Activities"
+    },
+    {
+        "division_title": "Arts and Recreation Services",
+        "subdivision_code": "92",
+        "division_code": "R",
+        "subdivision_title": "Gambling Activities"
+    },
+    {
+        "division_title": "Other Services",
+        "subdivision_code": "94",
+        "division_code": "S",
+        "subdivision_title": "Repair and Maintenance"
+    },
+    {
+        "division_title": "Other Services",
+        "subdivision_code": "95",
+        "division_code": "S",
+        "subdivision_title": "Personal and Other Services"
+    },
+    {
+        "division_title": "Other Services",
+        "subdivision_code": "96",
+        "division_code": "S",
+        "subdivision_title": "Private Households Employing Staff and Undifferentiated Goods- and Service-Producing Activities of Households for Own Use"
+    }
+]
