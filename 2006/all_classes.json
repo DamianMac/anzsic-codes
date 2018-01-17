@@ -1682,21 +1682,11 @@
     {
         "division_title": "Manufacturing",
         "subdivision_title": "Fabricated Metal Product Manufacturing",
-        "class_code": "Products)",
-        "group_code": "224",
-        "class_title": null,
-        "subdivision_code": "22",
-        "group_title": "Sheet Metal Product Manufacturing (except Metal Structural and Container",
-        "division_code": "C"
-    },
-    {
-        "division_title": "Manufacturing",
-        "subdivision_title": "Fabricated Metal Product Manufacturing",
         "class_code": "2240",
         "group_code": "224",
         "class_title": "Sheet Metal Product Manufacturing (except Metal Structural and Container",
         "subdivision_code": "22",
-        "group_title": "Sheet Metal Product Manufacturing (except Metal Structural and Container",
+        "group_title": "Sheet Metal Product Manufacturing (except Metal Structural and Container Products)",
         "division_code": "C"
     },
     {
