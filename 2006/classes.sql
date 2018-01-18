@@ -2,9 +2,9 @@
 DROP TABLE IF EXISTS anzsic_codes;
 CREATE TABLE anzsic_codes(
     division_code CHAR(1) NOT NULL,
-    division_title VARCHAR(100) NOT NULL,
+    division_title VARCHAR(200) NOT NULL,
     subdivision_code CHAR(2) NOT NULL,
-    subdivision_title VARCHAR(100) NOT NULL,
+    subdivision_title VARCHAR(200) NOT NULL,
     group_code CHAR(3) NOT NULL,
     group_title VARCHAR(200) NOT NULL,
     class_code CHAR(4) NOT NULL,
