@@ -1,0 +1,807 @@
+code,title
+A01,Agriculture
+A02,Aquaculture
+A03,Forestry and Logging
+A04,"Fishing, Hunting and Trapping"
+A05,"Agriculture, Forestry and Fishing Support Services"
+B06,Coal Mining
+B07,Oil and Gas Extraction
+B08,Metal Ore Mining
+B09,Non-Metallic Mineral Mining and Quarrying
+B10,Exploration and Other Mining Support Services
+C11,Food Product Manufacturing
+C12,Beverage and Tobacco Product Manufacturing
+C13,"Textile, Leather, Clothing and Footwear Manufacturing"
+C14,Wood Product Manufacturing
+C15,"Pulp, Paper and Converted Paper Product Manufacturing"
+C16,Printing (including the Reproduction of Recorded Media)
+C17,Petroleum and Coal Product Manufacturing
+C18,Basic Chemical and Chemical Product Manufacturing
+C19,Polymer Product and Rubber Product Manufacturing
+C20,Non-Metallic Mineral Product Manufacturing
+C21,Primary Metal and Metal Product Manufacturing
+C22,Fabricated Metal Product Manufacturing
+C23,Transport Equipment Manufacturing
+C24,Machinery and Equipment Manufacturing
+C25,Furniture and Other Manufacturing
+D26,Electricity Supply
+D27,Gas Supply
+D28,"Water Supply, Sewerage and Drainage Services"
+D29,"Waste Collection, Treatment and Disposal Services"
+E30,Building Construction
+E31,Heavy and Civil Engineering Construction
+E32,Construction Services
+F33,Basic Material Wholesaling
+F34,Machinery and Equipment Wholesaling
+F35,Motor Vehicle and Motor Vehicle Parts Wholesaling
+F36,"Grocery, Liquor and Tobacco Product Wholesaling"
+F37,Other Goods Wholesaling
+F38,Commission-Based Wholesaling
+G39,Motor Vehicle and Motor Vehicle Parts Retailing
+G40,Fuel Retailing
+G41,Food Retailing
+G42,Other Store-Based Retailing
+G43,Non-Store Retailing and Retail Commission-Based Buying and/or Selling
+H44,Accommodation
+H45,Food and Beverage Services
+I46,Road Transport
+I47,Rail Transport
+I48,Water Transport
+I49,Air and Space Transport
+I50,Other Transport
+I51,Postal and Courier Pick-up and Delivery Services
+I52,Transport Support Services
+I53,Warehousing and Storage Services
+J54,Publishing (except Internet and Music Publishing)
+J55,Motion Picture and Sound Recording Activities
+J56,Broadcasting (except Internet)
+J57,Internet Publishing and Broadcasting
+J58,Telecommunications Services
+J59,"Internet Service Providers, Web Search Portals and Data Processing Services"
+J60,Library and Other Information Services
+K62,Finance
+K63,Insurance and Superannuation Funds
+K64,Auxiliary Finance and Insurance Services
+L66,Rental and Hiring Services (except Real Estate)
+L67,Property Operators and Real Estate Services
+M69,"Professional, Scientific and Technical Services (Except Computer System Design and Related"
+M70,Computer System Design and Related Services
+N72,Administrative Services
+N73,"Building Cleaning, Pest Control and Other Support Services"
+O75,Public Administration
+O76,Defence
+O77,"Public Order, Safety and Regulatory Services"
+P80,Preschool and School Education
+P81,Tertiary Education
+P82,"Adult, Community and Other Education"
+Q84,Hospitals
+Q85,Medical and Other Health Care Services
+Q86,Residential Care Services
+Q87,Social Assistance Services
+R89,Heritage Activities
+R90,Creative and Performing Arts Activities
+R91,Sports and Recreation Activities
+R92,Gambling Activities
+S94,Repair and Maintenance
+S95,Personal and Other Services
+S96,Private Households Employing Staff and Undifferentiated Goods- and Service-Producing Activities of Households for Own Use
+A011,Nursery and Floriculture Production
+A012,Mushroom and Vegetable Growing
+A013,Fruit and Tree Nut Growing
+A014,"Sheep, Beef Cattle and Grain Farming"
+A015,Other Crop Growing
+A016,Dairy Cattle Farming
+A017,Poultry Farming
+A018,Deer Farming
+A019,Other Livestock Farming
+A020,Aquaculture
+A030,Forestry and Logging
+A041,Fishing
+A042,Hunting and Trapping
+A051,Forestry Support Services
+A052,Agriculture and Fishing Support Services
+B060,Coal Mining
+B070,Oil and Gas Extraction
+B080,Metal Ore Mining
+B091,Construction Material Mining
+B099,Other Non-Metallic Mineral Mining and Quarrying
+B101,Exploration
+B109,Other Mining Support Services
+C111,Meat and Meat Product Manufacturing
+C112,Seafood Processing
+C113,Dairy Product Manufacturing
+C114,Fruit and Vegetable Processing
+C115,Oil and Fat Manufacturing
+C116,Grain Mill and Cereal Product Manufacturing
+C117,Bakery Product Manufacturing
+C118,Sugar and Confectionery Manufacturing
+C119,Other Food Product Manufacturing
+C121,Beverage Manufacturing
+C122,Cigarette and Tobacco Product Manufacturing
+C131,Textile Manufacturing
+C132,"Leather Tanning, Fur Dressing and Leather Product Manufacturing"
+C133,Textile Product Manufacturing
+C134,Knitted Product Manufacturing
+C135,Clothing and Footwear Manufacturing
+C141,Log Sawmilling and Timber Dressing
+C149,Other Wood Product Manufacturing
+C151,"Pulp, Paper and Paperboard Manufacturing"
+C152,Converted Paper Product Manufacturing
+C161,Printing and Printing Support Services
+C162,Reproduction of Recorded Media
+C170,Petroleum and Coal Product Manufacturing
+C181,Basic Chemical Manufacturing
+C182,Basic Polymer Manufacturing
+C183,Fertiliser and Pesticide Manufacturing
+C184,Pharmaceutical and Medicinal Product Manufacturing
+C185,Cleaning Compound and Toiletry Preparation Manufacturing
+C189,Other Basic Chemical Product Manufacturing
+C191,Polymer Product Manufacturing
+C192,Natural Rubber Product Manufacturing
+C201,Glass and Glass Product Manufacturing
+C202,Ceramic Product Manufacturing
+C203,"Cement, Lime, Plaster and Concrete Product Manufacturing"
+C209,Other Non-Metallic Mineral Product Manufacturing
+C211,Basic Ferrous Metal Manufacturing
+C212,Basic Ferrous Metal Product Manufacturing
+C213,Basic Non-Ferrous Metal Manufacturing
+C214,Basic Non-Ferrous Metal Product Manufacturing
+C221,Iron and Steel Forging
+C222,Structural Metal Product Manufacturing
+C223,Metal Container Manufacturing
+C224,Sheet Metal Product Manufacturing (except Metal Structural and Container Products)
+C229,Other Fabricated Metal Product Manufacturing
+C231,Motor Vehicle and Motor Vehicle Part Manufacturing
+C239,Other Transport Equipment Manufacturing
+C241,Professional and Scientific Equipment Manufacturing
+C242,Computer and Electronic Equipment Manufacturing
+C243,Electrical Equipment Manufacturing
+C244,Domestic Appliance Manufacturing
+C245,"Pump, Compressor, Heating and Ventilation Equipment Manufacturing"
+C246,Specialised Machinery and Equipment Manufacturing
+C249,Other Machinery and Equipment Manufacturing
+C251,Furniture Manufacturing
+C259,Other Manufacturing
+D261,Electricity Generation
+D262,Electricity Transmission
+D263,Electricity Distribution
+D264,On Selling Electricity and Electricity Market Operation
+D270,Gas Supply
+D281,"Water Supply, Sewerage and Drainage Services"
+D291,Waste Collection Services
+D292,"Waste Treatment, Disposal and Remediation Services"
+E301,Residential Building Construction
+E302,Non-Residential Building Construction
+E310,Heavy and Civil Engineering Construction
+E321,Land Development and Site Preparation Services
+E322,Building Structure Services
+E323,Building Installation Services
+E324,Building Completion Services
+E329,Other Construction Services
+F331,Agricultural Product Wholesaling
+F332,"Mineral, Metal and Chemical Wholesaling"
+F333,Timber and Hardware Goods Wholesaling
+F341,Specialised Industrial Machinery and Equipment Wholesaling
+F349,Other Machinery and Equipment Wholesaling
+F350,Motor Vehicle and Motor Vehicle Parts Wholesaling
+F360,"Grocery, Liquor and Tobacco Product Wholesaling"
+F371,"Textile, Clothing and Footwear Wholesaling"
+F372,Pharmaceutical and Toiletry Goods Wholesaling
+F373,"Furniture, Floor Covering and Other Goods Wholesaling"
+F380,Commission-Based Wholesaling
+G391,Motor Vehicle Retailing
+G392,Motor Vehicle Parts and Tyre Retailing
+G400,Fuel Retailing
+G411,Supermarket and Grocery Stores
+G412,Specialised Food Retailing
+G421,"Furniture, Floor Coverings, Houseware and Textile Goods Retailing"
+G422,Electrical and Electronic Goods Retailing
+G423,"Hardware, Building and Garden Supplies Retailing"
+G424,Recreational Goods Retailing
+G425,"Clothing, Footwear and Personal Accessory Retailing"
+G426,Department Stores
+G427,Pharmaceutical and Other Store-Based Retailing
+G431,Non-Store Retailing
+G432,Retail Commission-Based Buying and/or Selling
+H440,Accommodation
+H451,"Cafes, Restaurants and Takeaway Food Services"
+H452,"Pubs, Taverns and Bars"
+H453,Clubs (Hospitality)
+I461,Road Freight Transport
+I462,Road Passenger Transport
+I471,Rail Freight Transport
+I472,Rail Passenger Transport
+I481,Water Freight Transport
+I482,Water Passenger Transport
+I490,Air and Space Transport
+I501,Scenic and Sightseeing Transport
+I502,Pipeline and Other Transport
+I510,Postal and Courier Pick-up and Delivery Services
+I521,Water Transport Support Services
+I522,Airport Operations and Other Air Transport Support Services
+I529,Other Transport Support Services
+I530,Warehousing and Storage Services
+J541,"Newspaper, Periodical, Book and Directory Publishing"
+J542,Software Publishing
+J551,Motion Picture and Video Activities
+J552,Sound Recording and Music Publishing
+J561,Radio Broadcasting
+J562,Television Broadcasting
+J570,Internet Publishing and Broadcasting
+J580,Telecommunications Services
+J591,Internet Service Providers and Web Search Portals
+J592,"Data Processing, Web Hosting and Electronic Information Storage Services"
+J601,Libraries and Archives
+J602,Other Information Services
+K621,Central Banking
+K622,Depository Financial Intermediation
+K623,Non-Depository Financing
+K624,Financial Asset Investing
+K631,Life Insurance
+K632,Health and General Insurance
+K633,Superannuation Funds
+K641,Auxiliary Finance and Investment Services
+K642,Auxiliary Insurance Services
+L661,Motor Vehicle and Transport Equipment Rental and Hiring
+L662,Farm Animal and Bloodstock Leasing
+L663,Other Goods and Equipment Rental and Hiring
+L664,Non-Financial Intangible Assets (Except Copyrights) Leasing
+L671,Property Operators
+L672,Real Estate Services
+M691,Scientific Research Services
+M692,"Architectural, Engineering and Technical Services"
+M693,Legal and Accounting Services
+M694,Advertising Services
+M695,Market Research and Statistical Services
+M696,Management and Related Consulting Services
+M697,Veterinary Services
+M699,"Other Professional, Scientific and Technical Services"
+M700,Computer System Design and Related Services
+N721,Employment Services
+N722,Travel Agency and Tour Arrangement Services
+N729,Other Administrative Services
+N731,"Building Cleaning, Pest Control and Gardening Services"
+N732,Packaging Services
+O751,Central Government Administration
+O752,State Government Administration
+O753,Local Government Administration
+O754,Justice
+O755,Government Representation
+O760,Defence
+O771,Public Order and Safety Services
+O772,Regulatory Services
+P801,Preschool Education
+P802,School Education
+P810,Tertiary Education
+P821,"Adult, Community and Other Education"
+P822,Educational Support Services
+Q840,Hospitals
+Q851,Medical Services
+Q852,Pathology and Diagnostic Imaging Services
+Q853,Allied Health Services
+Q859,Other Health Care Services
+Q860,Residential Care Services
+Q871,Child Care Services
+Q879,Other Social Assistance Services
+R891,Museum Operation
+R892,Parks and Gardens Operations
+R900,Creative and Performing Arts Activities
+R911,Sports and Physical Recreation Activities
+R912,Horse and Dog Racing Activities
+R913,Amusement and Other Recreation Activities
+R920,Gambling Activities
+S941,Automotive Repair and Maintenance
+S942,Machinery and Equipment Repair and Maintenance
+S949,Other Repair and Maintenance
+S951,Personal Care Services
+S952,"Funeral, Crematorium and Cemetery Services"
+S953,Other Personal Services
+S954,Religious Services
+S955,"Civic, Professional and Other Interest Group Services"
+S960,Private Households Employing Staff and Undifferentiated Goods- and Service-Producing Activities of Households for Own Use
+A0111,Nursery Production (Under Cover)
+A0112,Nursery Production (Outdoors)
+A0113,Turf Growing
+A0114,Floriculture Production (Under Cover)
+A0115,Floriculture Production (Outdoors)
+A0121,Mushroom Growing
+A0122,Vegetable Growing (Under Cover)
+A0123,Vegetable Growing (Outdoors)
+A0131,Grape Growing
+A0132,Kiwifruit Growing
+A0133,Berry Fruit Growing
+A0134,Apple and Pear Growing
+A0135,Stone Fruit Growing
+A0136,Citrus Fruit Growing
+A0137,Olive Growing
+A0139,Other Fruit and Tree Nut Growing
+A0141,Sheep Farming (Specialised)
+A0142,Beef Cattle Farming (Specialised)
+A0143,Beef Cattle Feedlots (Specialised)
+A0144,Sheep-Beef Cattle Farming
+A0145,Grain-Sheep or Grain-Beef Cattle Farming
+A0146,Rice Growing
+A0149,Other Grain Growing
+A0151,Sugar Cane Growing
+A0152,Cotton Growing
+A0159,Other Crop Growing n.e.c.
+A0160,Dairy Cattle Farming
+A0171,Poultry Farming (Meat)
+A0172,Poultry Farming (Eggs)
+A0180,Deer Farming
+A0191,Horse Farming
+A0192,Pig Farming
+A0193,Beekeeping
+A0199,Other Livestock Farming n.e.c.
+A0201,Offshore Longline and Rack Aquaculture
+A0202,Offshore Caged Aquaculture
+A0203,Onshore Aquaculture
+A0301,Forestry
+A0302,Logging
+A0411,Rock Lobster and Crab Potting
+A0412,Prawn Fishing
+A0413,Line Fishing
+A0414,"Fish Trawling, Seining and Netting"
+A0419,Other Fishing
+A0420,Hunting and Trapping
+A0510,Forestry Support Services
+A0521,Cotton Ginning
+A0522,Shearing Services
+A0529,Other Agriculture and Fishing Support Services
+B0600,Coal Mining
+B0700,Oil and Gas Extraction
+B0801,Iron Ore Mining
+B0802,Bauxite Mining
+B0803,Copper Ore Mining
+B0804,Gold Ore Mining
+B0805,Mineral Sand Mining
+B0806,Nickel Ore Mining
+B0807,Silver-Lead-Zinc Ore Mining
+B0809,Other Metal Ore Mining
+B0911,Gravel and Sand Quarrying
+B0919,Other Construction Material Mining
+B0990,Other Non-Metallic Mineral Mining and Quarrying
+B1011,Petroleum Exploration
+B1012,Mineral Exploration
+B1090,Other Mining Support Services
+C1111,Meat Processing
+C1112,Poultry Processing
+C1113,Cured Meat and Smallgoods Manufacturing
+C1120,Seafood Processing
+C1131,Milk and Cream Processing
+C1132,Ice Cream Manufacturing
+C1133,Cheese and Other Dairy Product Manufacturing
+C1140,Fruit and Vegetable Processing
+C1150,Oil and Fat Manufacturing
+C1161,Grain Mill Product Manufacturing
+C1162,"Cereal, Pasta and Baking Mix Manufacturing"
+C1171,Bread Manufacturing (Factory based)
+C1172,Cake and Pastry Manufacturing (Factory based)
+C1173,Biscuit Manufacturing (Factory based)
+C1174,Bakery Product Manufacturing (Non-factory based)
+C1181,Sugar Manufacturing
+C1182,Confectionery Manufacturing
+C1191,"Potato, Corn and Other Crisp Manufacturing"
+C1192,Prepared Animal and Bird Feed Manufacturing
+C1199,Other Food Product Manufacturing n.e.c.
+C1211,"Soft Drink, Cordial and Syrup Manufacturing"
+C1212,Beer Manufacturing
+C1213,Spirit Manufacturing
+C1214,Wine and Other Alcoholic Beverage Manufacturing
+C1220,Cigarette and Tobacco Product Manufacturing
+C1311,Wool Scouring
+C1312,Natural Textile Manufacturing
+C1313,Synthetic Textile Manufacturing
+C1320,"Leather Tanning, Fur Dressing and Leather Product Manufacturing"
+C1331,Textile Floor Covering Manufacturing
+C1332,"Rope, Cordage and Twine Manufacturing"
+C1333,Cut and Sewn Textile Product Manufacturing
+C1334,Textile Finishing and Other Textile Product Manufacturing
+C1340,Knitted Product Manufacturing
+C1351,Clothing Manufacturing
+C1352,Footwear Manufacturing
+C1411,Log Sawmilling
+C1412,Wood Chipping
+C1413,Timber Resawing and Dressing
+C1491,Prefabricated Wooden Building Manufacturing
+C1492,Wooden Structural Fitting and Component Manufacturing
+C1493,Veneer and Plywood Manufacturing
+C1494,Reconstituted Wood Product Manufacturing
+C1499,Other Wood Product Manufacturing n.e.c.
+C1510,"Pulp, Paper and Paperboard Manufacturing"
+C1521,Corrugated Paperboard and Paperboard Container Manufacturing
+C1522,Paper Bag Manufacturing
+C1523,Paper Stationery Manufacturing
+C1524,Sanitary Paper Product Manufacturing
+C1529,Other Converted Paper Product Manufacturing
+C1611,Printing
+C1612,Printing Support Services
+C1620,Reproduction of Recorded Media
+C1701,Petroleum Refining and Petroleum Fuel Manufacturing
+C1709,Other Petroleum and Coal Product Manufacturing
+C1811,Industrial Gas Manufacturing
+C1812,Basic Organic Chemical Manufacturing
+C1813,Basic Inorganic Chemical Manufacturing
+C1821,Synthetic Resin and Synthetic Rubber Manufacturing
+C1829,Other Basic Polymer Manufacturing
+C1831,Fertiliser Manufacturing
+C1832,Pesticide Manufacturing
+C1841,Human Pharmaceutical and Medicinal Product Manufacturing
+C1842,Veterinary Pharmaceutical and Medicinal Product Manufacturing
+C1851,Cleaning Compound Manufacturing
+C1852,Cosmetic and Toiletry Preparation Manufacturing
+C1891,Photographic Chemical Product Manufacturing
+C1892,Explosive Manufacturing
+C1899,Other Basic Chemical Product Manufacturing n.e.c.
+C1911,Polymer Film and Sheet Packaging Material Manufacturing
+C1912,Rigid and Semi-Rigid Polymer Product Manufacturing
+C1913,Polymer Foam Product Manufacturing
+C1914,Tyre Manufacturing
+C1915,Adhesive Manufacturing
+C1916,Paint and Coatings Manufacturing
+C1919,Other Polymer Product Manufacturing
+C1920,Natural Rubber Product Manufacturing
+C2010,Glass and Glass Product Manufacturing
+C2021,Clay Brick Manufacturing
+C2029,Other Ceramic Product Manufacturing
+C2031,Cement and Lime Manufacturing
+C2032,Plaster Product Manufacturing
+C2033,Ready-Mixed Concrete Manufacturing
+C2034,Concrete Product Manufacturing
+C2090,Other Non-Metallic Mineral Product Manufacturing
+C2110,Iron Smelting and Steel Manufacturing
+C2121,Iron and Steel Casting
+C2122,Steel Pipe and Tube Manufacturing
+C2131,Alumina Production
+C2132,Aluminium Smelting
+C2133,"Copper, Silver, Lead and Zinc Smelting and Refining"
+C2139,Other Basic Non-Ferrous Metal Manufacturing
+C2141,Non-Ferrous Metal Casting
+C2142,"Aluminium Rolling, Drawing, Extruding"
+C2149,Other Basic Non-Ferrous Metal Product Manufacturing
+C2210,Iron and Steel Forging
+C2221,Structural Steel Fabricating
+C2222,Prefabricated Metal Building Manufacturing
+C2223,Architectural Aluminium Product Manufacturing
+C2224,Metal Roof and Guttering Manufacturing (except Aluminium)
+C2229,Other Structural Metal Product Manufacturing
+C2231,"Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing"
+C2239,Other Metal Container Manufacturing
+C2240,Sheet Metal Product Manufacturing (except Metal Structural and Container
+C2291,Spring and Wire Product Manufacturing
+C2292,"Nut, Bolt, Screw and Rivet Manufacturing"
+C2293,Metal Coating and Finishing
+C2299,Other Fabricated Metal Product Manufacturing n.e.c.
+C2311,Motor Vehicle Manufacturing
+C2312,Motor Vehicle Body and Trailer Manufacturing
+C2313,Automotive Electrical Component Manufacturing
+C2319,Other Motor Vehicle Parts Manufacturing
+C2391,Shipbuilding and Repair Services
+C2392,Boatbuilding and Repair Services
+C2393,Railway Rolling Stock Manufacturing and Repair Services
+C2394,Aircraft Manufacturing and Repair Services
+C2399,Other Transport Equipment Manufacturing n.e.c.
+C2411,"Photographic, Optical and Ophthalmic Equipment Manufacturing"
+C2412,Medical and Surgical Equipment Manufacturing
+C2419,Other Professional and Scientific Equipment Manufacturing
+C2421,Computer and Electronic Office Equipment Manufacturing
+C2422,Communication Equipment Manufacturing
+C2429,Other Electronic Equipment Manufacturing
+C2431,Electric Cable and Wire Manufacturing
+C2432,Electric Lighting Equipment Manufacturing
+C2439,Other Electrical Equipment Manufacturing
+C2441,Whiteware Appliance Manufacturing
+C2449,Other Domestic Appliance Manufacturing
+C2451,Pump and Compressor Manufacturing
+C2452,"Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing"
+C2461,Agricultural Machinery and Equipment Manufacturing
+C2462,Mining and Construction Machinery Manufacturing
+C2463,Machine Tool and Parts Manufacturing
+C2469,Other Specialised Machinery and Equipment Manufacturing
+C2491,Lifting and Material Handling Equipment Manufacturing
+C2499,Other Machinery and Equipment Manufacturing n.e.c.
+C2511,Wooden Furniture and Upholstered Seat Manufacturing
+C2512,Metal Furniture Manufacturing
+C2513,Mattress Manufacturing
+C2519,Other Furniture Manufacturing
+C2591,Jewellery and Silverware Manufacturing
+C2592,"Toy, Sporting and Recreational Product Manufacturing"
+C2599,Other Manufacturing n.e.c.
+D2611,Fossil Fuel Electricity Generation
+D2612,Hydro-Electricity Generation
+D2619,Other Electricity Generation
+D2620,Electricity Transmission
+D2630,Electricity Distribution
+D2640,On Selling Electricity and Electricity Market Operation
+D2700,Gas Supply
+D2811,Water Supply
+D2812,Sewerage and Drainage Services
+D2911,Solid Waste Collection Services
+D2919,Other Waste Collection Services
+D2921,Waste Treatment and Disposal Services
+D2922,Waste Remediation and Materials Recovery Services
+E3011,House Construction
+E3019,Other Residential Building Construction
+E3020,Non-Residential Building Construction
+E3101,Road and Bridge Construction
+E3109,Other Heavy and Civil Engineering Construction
+E3211,Land Development and Subdivision
+E3212,Site Preparation Services
+E3221,Concreting Services
+E3222,Bricklaying Services
+E3223,Roofing Services
+E3224,Structural Steel Erection Services
+E3231,Plumbing Services
+E3232,Electrical Services
+E3233,Air Conditioning and Heating Services
+E3234,Fire and Security Alarm Installation Services
+E3239,Other Building Installation Services
+E3241,Plastering and Ceiling Services
+E3242,Carpentry Services
+E3243,Tiling and Carpeting Services
+E3244,Painting and Decorating Services
+E3245,Glazing Services
+E3291,Landscape Construction Services
+E3292,Hire of Construction Machinery with Operator
+E3299,Other Construction Services n.e.c.
+F3311,Wool Wholesaling
+F3312,Cereal Grain Wholesaling
+F3319,Other Agricultural Product Wholesaling
+F3321,Petroleum Product Wholesaling
+F3322,Metal and Mineral Wholesaling
+F3323,Industrial and Agricultural Chemical Product Wholesaling
+F3331,Timber Wholesaling
+F3332,Plumbing Goods Wholesaling
+F3339,Other Hardware Goods Wholesaling
+F3411,Agricultural and Construction Machinery Wholesaling
+F3419,Other Specialised Industrial Machinery and Equipment Wholesaling
+F3491,Professional and Scientific Goods Wholesaling
+F3492,Computer and Computer Peripheral Wholesaling
+F3493,Telecommunication Goods Wholesaling
+F3494,Other Electrical and Electronic Goods Wholesaling
+F3499,Other Machinery and Equipment Wholesaling n.e.c.
+F3501,Car Wholesaling
+F3502,Commercial Vehicle Wholesaling
+F3503,Trailer and Other Motor Vehicle Wholesaling
+F3504,Motor Vehicle New Parts Wholesaling
+F3505,Motor Vehicle Dismantling and Used Parts Wholesaling
+F3601,General Line Grocery Wholesaling
+F3602,"Meat, Poultry and Smallgoods Wholesaling"
+F3603,Dairy Produce Wholesaling
+F3604,Fish and Seafood Wholesaling
+F3605,Fruit and Vegetable Wholesaling
+F3606,Liquor and Tobacco Product Wholesaling
+F3609,Other Grocery Wholesaling
+F3711,Textile Product Wholesaling
+F3712,Clothing and Footwear Wholesaling
+F3720,Pharmaceutical and Toiletry Goods Wholesaling
+F3731,Furniture and Floor Covering Wholesaling
+F3732,Jewellery and Watch Wholesaling
+F3733,Kitchen and Diningware Wholesaling
+F3734,Toy and Sporting Goods Wholesaling
+F3735,Book and Magazine Wholesaling
+F3736,Paper Product Wholesaling
+F3739,Other Goods Wholesaling n.e.c.
+F3800,Commission-Based Wholesaling
+G3911,Car Retailing
+G3912,Motor Cycle Retailing
+G3913,Trailer and Other Motor Vehicle Retailing
+G3921,Motor Vehicle Parts Retailing
+G3922,Tyre Retailing
+G4000,Fuel Retailing
+G4110,Supermarket and Grocery Stores
+G4121,"Fresh Meat, Fish and Poultry Retailing"
+G4122,Fruit and Vegetable Retailing
+G4123,Liquor Retailing
+G4129,Other Specialised Food Retailing
+G4211,Furniture Retailing
+G4212,Floor Coverings Retailing
+G4213,Houseware Retailing
+G4214,Manchester and Other Textile Goods Retailing
+G4221,"Electrical, Electronic and Gas Appliance Retailing"
+G4222,Computer and Computer Peripheral Retailing
+G4229,Other Electrical and Electronic Goods Retailing
+G4231,Hardware and Building Supplies Retailing
+G4232,Garden Supplies Retailing
+G4241,Sport and Camping Equipment Retailing
+G4242,Entertainment Media Retailing
+G4243,Toy and Game Retailing
+G4244,Newspaper and Book Retailing
+G4245,Marine Equipment Retailing
+G4251,Clothing Retailing
+G4252,Footwear Retailing
+G4253,Watch and Jewellery Retailing
+G4259,Other Personal Accessory Retailing
+G4260,Department Stores
+G4271,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing"
+G4272,Stationery Goods Retailing
+G4273,Antique and Used Goods Retailing
+G4274,Flower Retailing
+G4279,Other Store-Based Retailing n.e.c.
+G4310,Non-Store Retailing
+G4320,Retail Commission-Based Buying and/or Selling
+H4400,Accommodation
+H4511,Cafes and Restaurants
+H4512,Takeaway Food Services
+H4513,Catering Services
+H4520,"Pubs, Taverns and Bars"
+H4530,Clubs (Hospitality)
+I4610,Road Freight Transport
+I4621,Interurban and Rural Bus Transport
+I4622,Urban Bus Transport (Including Tramway)
+I4623,Taxi and Other Road Transport
+I4710,Rail Freight Transport
+I4720,Rail Passenger Transport
+I4810,Water Freight Transport
+I4820,Water Passenger Transport
+I4900,Air and Space Transport
+I5010,Scenic and Sightseeing Transport
+I5021,Pipeline Transport
+I5029,Other Transport n.e.c.
+I5101,Postal Services
+I5102,Courier Pick-up and Delivery Services
+I5211,Stevedoring Services
+I5212,Port and Water Transport Terminal Operations
+I5219,Other Water Transport Support Services
+I5220,Airport Operations and Other Air Transport Support Services
+I5291,Customs Agency Services
+I5292,Freight Forwarding Services
+I5299,Other Transport Support Services n.e.c.
+I5301,Grain Storage Services
+I5309,Other Warehousing and Storage Services
+J5411,Newspaper Publishing
+J5412,Magazine and Other Periodical Publishing
+J5413,Book Publishing
+J5414,Directory and Mailing List Publishing
+J5419,"Other Publishing (except Software, Music and Internet)"
+J5420,Software Publishing
+J5511,Motion Picture and Video Production
+J5512,Motion Picture and Video Distribution
+J5513,Motion Picture Exhibition
+J5514,Post-production Services and Other Motion Picture and Video Activities
+J5521,Music Publishing
+J5522,Music and Other Sound Recording Activities
+J5610,Radio Broadcasting
+J5621,Free-to-Air Television Broadcasting
+J5622,Cable and Other Subscription Broadcasting
+J5700,Internet Publishing and Broadcasting
+J5801,Wired Telecommunications Network Operation
+J5802,Other Telecommunications Network Operation
+J5809,Other Telecommunications Services
+J5910,Internet Service Providers and Web Search Portals
+J5921,Data Processing and Web Hosting Services
+J5922,Electronic Information Storage Services
+J6010,Libraries and Archives
+J6020,Other Information Services
+K6210,Central Banking
+K6221,Banking
+K6222,Building Society Operation
+K6223,Credit Union Operation
+K6229,Other Depository Financial Intermediation
+K6230,Non-Depository Financing
+K6240,Financial Asset Investing
+K6310,Life Insurance
+K6321,Health Insurance
+K6322,General Insurance
+K6330,Superannuation Funds
+K6411,Financial Asset Broking Services
+K6419,Other Auxiliary Finance and Investment Services
+K6420,Auxiliary Insurance Services
+L6611,Passenger Car Rental and Hiring
+L6619,Other Motor Vehicle and Transport Equipment Rental and Hiring
+L6620,Farm Animal and Bloodstock Leasing
+L6631,Heavy Machinery and Scaffolding Rental and Hiring
+L6632,Video and Other Electronic Media Rental and Hiring
+L6639,Other Goods and Equipment Rental and Hiring n.e.c.
+L6640,Non-Financial Intangible Assets (Except Copyrights) Leasing
+L6711,Residential Property Operators
+L6712,Non-Residential Property Operators
+L6720,Real Estate Services
+M6910,Scientific Research Services
+M6921,Architectural Services
+M6922,Surveying and Mapping Services
+M6923,Engineering Design and Engineering Consulting Services
+M6924,Other Specialised Design Services
+M6925,Scientific Testing and Analysis Services
+M6931,Legal Services
+M6932,Accounting Services
+M6940,Advertising Services
+M6950,Market Research and Statistical Services
+M6961,Corporate Head Office Management Services
+M6962,Management Advice and Related Consulting Services
+M6970,Veterinary Services
+M6991,Professional Photographic Services
+M6999,"Other Professional, Scientific and Technical Services n.e.c."
+M7000,Computer System Design and Related Services
+N7211,Employment Placement and Recruitment Services
+N7212,Labour Supply Services
+N7220,Travel Agency and Tour Arrangement Services
+N7291,Office Administrative Services
+N7292,Document Preparation Services
+N7293,Credit Reporting and Debt Collection Services
+N7294,Call Centre Operation
+N7299,Other Administrative Services n.e.c.
+N7311,Building and Other Industrial Cleaning Services
+N7312,Building Pest Control Services
+N7313,Gardening Services
+N7320,Packaging Services
+O7510,Central Government Administration
+O7520,State Government Administration
+O7530,Local Government Administration
+O7540,Justice
+O7551,Domestic Government Representation
+O7552,Foreign Government Representation
+O7600,Defence
+O7711,Police Services
+O7712,Investigation and Security Services
+O7713,Fire Protection and Other Emergency Services
+O7714,Correctional and Detention Services
+O7719,Other Public Order and Safety Services
+O7720,Regulatory Services
+P8010,Preschool Education
+P8021,Primary Education
+P8022,Secondary Education
+P8023,Combined Primary and Secondary Education
+P8024,Special School Education
+P8101,Technical and Vocational Education and Training
+P8102,Higher Education
+P8211,Sports and Physical Recreation Instruction
+P8212,Arts Education
+P8219,"Adult, Community and Other Education n.e.c."
+P8220,Educational Support Services
+Q8401,Hospitals (Except Psychiatric Hospitals)
+Q8402,Psychiatric Hospitals
+Q8511,General Practice Medical Services
+Q8512,Specialist Medical Services
+Q8520,Pathology and Diagnostic Imaging Services
+Q8531,Dental Services
+Q8532,Optometry and Optical Dispensing
+Q8533,Physiotherapy Services
+Q8534,Chiropractic and Osteopathic Services
+Q8539,Other Allied Health Services
+Q8591,Ambulance Services
+Q8599,Other Health Care Services n.e.c.
+Q8601,Aged Care Residential Services
+Q8609,Other Residential Care Services
+Q8710,Child Care Services
+Q8790,Other Social Assistance Services
+R8910,Museum Operation
+R8921,Zoological and Botanical Gardens Operation
+R8922,Nature Reserves and Conservation Parks Operation
+R9001,Performing Arts Operation
+R9002,"Creative Artists, Musicians, Writers and Performers"
+R9003,Performing Arts Venue Operation
+R9111,Health and Fitness Centres and Gymnasia Operation
+R9112,Sports and Physical Recreation Clubs and Sports Professionals
+R9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation"
+R9114,Sports and Physical Recreation Administrative Service
+R9121,Horse and Dog Racing Administration and Track Operation
+R9129,Other Horse and Dog Racing Activities
+R9131,Amusement Parks and Centres Operation
+R9139,Amusement and Other Recreational Activities n.e.c.
+R9201,Casino Operation
+R9202,Lottery Operation
+R9209,Other Gambling Activities
+S9411,Automotive Electrical Services
+S9412,"Automotive Body, Paint and Interior Repair"
+S9419,Other Automotive Repair and Maintenance
+S9421,Domestic Appliance Repair and Maintenance
+S9422,Electronic (except Domestic Appliance) and Precision Equipment Repair
+S9429,Other Machinery and Equipment Repair and Maintenance
+S9491,Clothing and Footwear Repair
+S9499,Other Repair and Maintenance n.e.c.
+S9511,Hairdressing and Beauty Services
+S9512,Diet and Weight Reduction Centre Operation
+S9520,"Funeral, Crematorium and Cemetery Services"
+S9531,Laundry and Dry-Cleaning Services
+S9532,Photographic Film Processing
+S9533,Parking Services
+S9534,Brothel Keeping and Prostitution Services
+S9539,Other Personal Services n.e.c.
+S9540,Religious Services
+S9551,Business and Professional Association Services
+S9552,Labour Association Services
+S9559,Other Interest Group Services n.e.c.
+S9601,Private Households Employing Staff
+S9602,Undifferentiated Goods-Producing Activities of Private Households for Own Use
+S9603,Undifferentiated Service-Producing Activities of Private Households for Own Use
